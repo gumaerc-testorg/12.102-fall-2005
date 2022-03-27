@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 96589f3c-fb3c-11ac-16db-e8f654ba46ef
 resourcetype: Image
 title: rainier_final.jpg
 uid: 57632818-2e6a-e877-692b-6d594f0b17fa

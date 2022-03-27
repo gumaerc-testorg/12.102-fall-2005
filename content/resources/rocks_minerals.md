@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 96589f3c-fb3c-11ac-16db-e8f654ba46ef
 resourcetype: Document
 title: rocks_minerals.pdf
 uid: c8572585-9f5c-f487-b72d-b0f5d0ec7228
