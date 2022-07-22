@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The reading section contains the topic wise readings and some files related
+  to the readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 2b2c0447-3c7b-963a-fdfb-24dbe6b94097
 ---
@@ -48,7 +53,7 @@ Liu, Jianguo, Gretchen C. Daily, Paul R. Ehrlich, and Gary W. Luck. "Effects of 
 
 Bartlett, Albert A. "The World's Worst Population Problem." _Wild Earth_ 7, no. 3 (Fall 1997): 88-90.
 
-Population and the Environment ([PDF]({{< baseurl >}}/resources/p_e))
+Population and the Environment ({{% resource_link 2ccdffdc-31ef-d61c-27ca-e6d5eb94a444 "PDF" %}})
 
 Eberstadt, Nicholas. "[Population Sense and Nonsense](https://www.washingtonexaminer.com/weekly-standard/population-sense-and-nonsense)." _AEI Online,_ Sunday, September 1, 2002.
 

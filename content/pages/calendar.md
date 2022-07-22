@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The calendar section contains three column table with headings as week
+  number, topics, and key dates related to the topic.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 9ba2ca9e-9737-9dc8-3871-80281fd3becf
 ---
