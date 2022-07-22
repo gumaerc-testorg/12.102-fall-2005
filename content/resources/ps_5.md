@@ -9,6 +9,7 @@ file: /courses/12-102-environmental-earth-science-fall-2005/0b8f350cb77aaa3d006d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -20,4 +21,3 @@ uid: 0b8f350c-b77a-aa3d-006d-defcc362ac93
 This resource talk about the horrible
 hazards that await the inhabitants of Washington State due to its precarious
 position above the Cascadia Subduction Zone.
-

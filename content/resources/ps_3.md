@@ -5,6 +5,7 @@ file: /courses/12-102-environmental-earth-science-fall-2005/55343a5a7b1597e766a7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps_3.pdf
 uid: 55343a5a-7b15-97e7-66a7-14828eece25c
 ---
 This resource talks about Water and its usefulness in various ways.
-
