@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/12-102-environmental-earth-science-fall-2005/576328182e6ae877692b6d594f0b17fa_rainier_final.jpg
+file_size: 2477701
 file_type: image/jpeg
 image_metadata:
   caption: ''
