@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource asks to read de Wit(2005)
-file: /courses/12-102-environmental-earth-science-fall-2005/b14156bfcc54587fe4fac199104fc447_problemset_2_5.pdf
+file: /ol-ocw-studio-app/courses/12-102-environmental-earth-science-fall-2005/b14156bfcc54587fe4fac199104fc447_problemset_2_5.pdf
 file_size: 36138
 file_type: application/pdf
 learning_resource_types:
