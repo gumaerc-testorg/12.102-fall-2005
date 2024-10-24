@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource talks about Geologic time and rates of geologic processes
   in respect to relative timing relationships, absolute time, and politics.
-file: /courses/12-102-environmental-earth-science-fall-2005/1fb8a315eb35606af172e10085d0956b_ps_2_time.pdf
+file: /ol-ocw-studio-app/courses/12-102-environmental-earth-science-fall-2005/1fb8a315eb35606af172e10085d0956b_ps_2_time.pdf
 file_size: 352711
 file_type: application/pdf
 learning_resource_types:
