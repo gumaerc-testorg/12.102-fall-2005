@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/12-102-environmental-earth-science-fall-2005/2ccdffdc31efd61c27cae6d5eb94a444_p_e.pdf
+file: /courses/12-102-environmental-earth-science-fall-2005/2ccdffdc31efd61c27cae6d5eb94a444_p_e.pdf
 file_size: 42412
 file_type: application/pdf
 learning_resource_types:
