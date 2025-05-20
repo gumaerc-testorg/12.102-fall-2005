@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the exercise based on exponential population growth.
-file: /ol-ocw-studio-app/courses/12-102-environmental-earth-science-fall-2005/d90838ea8e83edfa97f416ea00bde830_ps_1_popgrowth.pdf
+file: /courses/12-102-environmental-earth-science-fall-2005/d90838ea8e83edfa97f416ea00bde830_ps_1_popgrowth.pdf
 file_size: 134925
 file_type: application/pdf
 learning_resource_types:
