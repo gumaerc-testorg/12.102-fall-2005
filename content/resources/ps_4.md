@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the exercise that utilizes the wealth of water
   measurement data available online through the Water Resources Division of the United
   States Geological Survey (USGS).
-file: /courses/12-102-environmental-earth-science-fall-2005/29010c3aef792bd935e4c96ccc472292_ps_4.pdf
+file: /ol-ocw-studio-app/courses/12-102-environmental-earth-science-fall-2005/29010c3aef792bd935e4c96ccc472292_ps_4.pdf
 file_size: 163052
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/12-102-environmental-earth-science-fall-2005/e73d905cc06936bd95808fa588659ea6_problemset_25.pdf
+file: /ol-ocw-studio-app/courses/12-102-environmental-earth-science-fall-2005/e73d905cc06936bd95808fa588659ea6_problemset_25.pdf
 file_size: 36135
 file_type: application/pdf
 learning_resource_types:
