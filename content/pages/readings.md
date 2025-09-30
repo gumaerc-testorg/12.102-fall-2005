@@ -55,7 +55,7 @@ Bartlett, Albert A. "The World's Worst Population Problem." _Wild Earth_ 7, no. 
 
 Population and the Environment ({{% resource_link 2ccdffdc-31ef-d61c-27ca-e6d5eb94a444 "PDF" %}})
 
-Eberstadt, Nicholas. "[Population Sense and Nonsense](https://www.washingtonexaminer.com/weekly-standard/population-sense-and-nonsense)." _AEI Online,_ Sunday, September 1, 2002.
+Eberstadt, Nicholas. "{{% resource_link "75dfae8c-923b-4434-a1e4-897a5118856f" "Population Sense and Nonsense" %}}." _AEI Online,_ Sunday, September 1, 2002.
 
 
 {{< tdclose >}}
@@ -83,9 +83,9 @@ Water as a Resource
 {{< tdopen >}}
 
 
-"[Nuclear industry exec picked to head Yucca Mountain project](http://www.lasvegasnow.com/)," _Las Vegas Sun_, September 09, 2005, Associated Press.
+"{{% resource_link "4f880b00-5616-486d-92d5-ba484796cae5" "Nuclear industry exec picked to head Yucca Mountain project" %}}," _Las Vegas Sun_, September 09, 2005, Associated Press.
 
-"[DOE proposes spending cuts for Yucca Mountain scientists](http://www.lasvegasnow.com/Global/category.asp?C=23322)," _Las Vegas Sun_, September 14, 2005, Associated Press.
+"{{% resource_link "159f7471-7bf9-454b-a6bb-66d8ef3b5a70" "DOE proposes spending cuts for Yucca Mountain scientists" %}}," _Las Vegas Sun_, September 14, 2005, Associated Press.
 
 Brumfiel, Geoff. "Senate nod prompts fresh analysis of nuclear waste dump." _Nature_ 418 (July 18, 2002).
 
